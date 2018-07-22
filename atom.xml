@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Francisco&#39;s Blog</title>
+  <icon>https://www.gravatar.com/avatar/7f00e77e85746d6a4aea214dd9d97b2a</icon>
+  <subtitle>To Be A Learn Developer!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://devchico.com/"/>
+  <updated>2018-07-22T04:39:46.979Z</updated>
+  <id>http://devchico.com/</id>
+  
+  <author>
+    <name>Francisco Santos</name>
+    <email>yoshi.df@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HelloJS</title>
+    <link href="http://devchico.com/2018/07/22/HelloJS/"/>
+    <id>http://devchico.com/2018/07/22/HelloJS/</id>
+    <published>2018-07-22T04:39:46.000Z</published>
+    <updated>2018-07-22T04:39:46.979Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
