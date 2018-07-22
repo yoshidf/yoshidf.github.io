@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://devchico.com/"/>
-  <updated>2018-07-22T04:39:46.979Z</updated>
+  <updated>2018-07-22T23:42:00.779Z</updated>
   <id>http://devchico.com/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="http://devchico.com/2018/07/22/HelloJS/"/>
     <id>http://devchico.com/2018/07/22/HelloJS/</id>
     <published>2018-07-22T04:39:46.000Z</published>
-    <updated>2018-07-22T04:39:46.979Z</updated>
+    <updated>2018-07-22T23:42:00.779Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello Word!</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello Word!&lt;/p&gt;
+
+      
     
     </summary>
     
