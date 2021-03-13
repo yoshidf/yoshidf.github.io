@@ -43,7 +43,7 @@ export const projects = [
   {
     title: 'Widget que exibe a música que está tocando no seu spotify',
     image: '/projects/spotify-widget.png',
-    url: 'https://github.com/santosfrancisco/react-awesome-styled-grid',
+    url: 'https://spotify-widget.vercel.app/',
     description:
       'Este projeto é um widget que permite que você exiba um pequeno cartão com a música atual que está tocando no seu spotify. Foi desenvolvido para ser utilizado junto ao OBS em streams, assim mostrando aos espectadores o nome e artista das músicas que estão tocando.',
   },
